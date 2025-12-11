@@ -1,0 +1,28 @@
+WARN  DEPRECATED: Kind "taxonomyterm" used in disableKinds is deprecated, use "taxonomy" instead.
+Watching for changes in /app/site/{assets,content,data,layouts,static}
+Watching for config changes in /app/site/hugo.toml
+Start building sites …
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN
+-------------------+-----
+  Pages            | 10
+  Paginator pages  |  0
+  Non-page files   |  2
+  Static files     | 38
+  Processed images |  0
+  Aliases          |  1
+  Cleaned          |  0
+
+Built in 51 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2025-12-11 20:30:54.262 +0000
+Data changed /webpack.json
+Total in 47 ms
